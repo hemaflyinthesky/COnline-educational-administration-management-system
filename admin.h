@@ -1,0 +1,12 @@
+#ifndef ADMIN_H
+#define ADMIN_H
+void admin_time(void);
+int show_admin(void);
+void reset(void);
+void reset_tea(void);
+void add_tea(void);
+void del_tea(void);
+void show_in_tea(void);
+void show_out_tea(void);
+void free_tea(void);
+#endif //ADMIN_H
